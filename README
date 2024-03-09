@@ -1,0 +1,4 @@
+Compile withe the following command:
+gcc -g -o ball -I. ball.cpp -lglut -lGL -lX11 -lm -lGLU -lstdc++
+
+Use the arrow keys to control the paddle! :)
